@@ -1,0 +1,8 @@
+enum ActionsTypesEnum {
+    LOAD_DOCUMENTOS = "LOAD_DOCUMENTOS",
+    FULFILLED_DOCUMENTS = "FULFILLED_DOCUMENTS",
+    SEND_PAYMENT = "SEND_PAYMENT",
+    LOAD_PAYMENT = "LOAD_PAYMENT"
+}
+
+export default ActionsTypesEnum;
